@@ -62,14 +62,6 @@
 
 ---
 
-## 📈 Activity & Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VennelaKonduru&theme=react-dark&bg_color=0d1117&color=58a6ff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Vennela's Contribution Graph" width="100%" />
-</p>
-
----
-
 ## 🎮 Contribution Animations
 
 <p align="center">
@@ -87,4 +79,12 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=VennelaKonduru&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com?user=VennelaKonduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 📈 Activity & Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VennelaKonduru&theme=react-dark&bg_color=0d1117&color=58a6ff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Vennela's Contribution Graph" width="100%" />
 </p>
