@@ -19,8 +19,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Vennela Raghava Konduru"
+          git config user.email "YOUR_GITHUB_NOREPLY_EMAIL"
 
       - name: Update activity file
         run: |
@@ -29,9 +29,11 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add auto_activity.txt
+
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
+
           git commit -m "chore: daily activity update"
           git push
