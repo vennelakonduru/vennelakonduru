@@ -62,9 +62,15 @@
 
 ---
 
-## 🎮 Contribution Graphs
+## 📈 Activity & Contribution Graph
 
-<br />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VennelaKonduru&theme=react-dark&bg_color=0d1117&color=58a6ff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Vennela's Contribution Graph" width="100%" />
+</p>
+
+---
+
+## 🎮 Contribution Animations
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VennelaKonduru/VennelaKonduru/output2/pacman-contribution-graph.svg" alt="Pacman Graph" width="100%" />
