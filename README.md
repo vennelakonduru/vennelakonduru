@@ -77,8 +77,12 @@
 ## 📊 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=VennelaKonduru&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=VennelaKonduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/VennelaKonduru">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=VennelaKonduru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/VennelaKonduru">
+    <img src="https://streak-stats.demolab.com?user=VennelaKonduru&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
 </p>
 
 ---
