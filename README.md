@@ -2,7 +2,7 @@
   <img src="./banner.gif.png" alt="Pixel Art Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Vennela Konduru</h1>
+<h1 align="center">Hi 👋, I'm Vennela Raghava Konduru</h1>
 
 <h3 align="center">
   Aspiring Software Engineer | AI & Data Science Student
